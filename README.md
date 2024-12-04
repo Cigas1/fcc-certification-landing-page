@@ -1,5 +1,5 @@
 
-![Logo](https://design-style-guide.freecodecamp.org/img/fcc_secondary_large.svg)
+![Logo](https://upload.wikimedia.org/wikipedia/commons/3/39/FreeCodeCamp_logo.png)
 
 
 # Projeto para certificação em web design responsivo (Landing Page)
